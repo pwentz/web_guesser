@@ -1,5 +1,5 @@
 ## Web Guesser
-A simple guessing game using Ruby, Sinatra, and ERB made for the web. This version changes background colors based on the proximity of the user's guess to the randomly generated number (0 to 100), limits the number of guesses per game to 5,
+A simple guessing game using Ruby, Sinatra, and ERB made for the web. This version changes background colors based on the proximity of the user's guess to the randomly generated number (0 to 100), limits the number of guesses per game to 5, and
 enables a "cheat" mode for users to check the answer.
 
 Also implemented an additional extension where a user can check the number of guesses they have remaining without being penalized a guess.
