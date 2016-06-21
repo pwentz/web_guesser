@@ -40,7 +40,6 @@ require 'sinatra/reloader'
     end
   end
 
-
   def send_message(guess, secret_number)
     if guess == secret_number
       grudge_match?(secret_number)
